@@ -52,21 +52,6 @@ After importing the data from a csv file, I transformed the data into a datafram
 - writeup/reporting
 
 
-
-
-## Conclusion
-
-The customer segmentation analysis was directed towards grouping customers based on their purchase behaviors and using those groups to understand their purchase behaviors.
-
-I found out that their are seven groups and the distance of the shops from the customers had influence on the amount and quantity purchased by customers.
-
-I also found out that regardless of the distance from shop 1, customers spend relatively more in shop 1 than any other shop.
-
-The information gotten from this analysis will not only help in minimizing the cost by allocating the right type of inventory to the right shop but can also help to improve customer satisfaction and retension. Offers, deals, discounts etc are some of the techniques we can incorporate in the business strategy.
-
-
-
-
 Research Question: Are they any clusters of customers based on their purchase behavior? 
 
 ## Importing and cleaning data
