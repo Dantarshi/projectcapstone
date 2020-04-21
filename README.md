@@ -3,11 +3,11 @@
 
 ## Getting Started
 
-1. Clone this repo (https://github.com/Dantarshi/projectcapstone).
+1. Clone this repo [Github Pages](https://github.com/Dantarshi/projectcapstone).
 
 2. Raw Data is being kept (raw_data_clusters.csv) within this repo.
 
-3. main notebook link(https://github.com/Dantarshi/projectcapstone/blob/master/Customer%20Segmentation%20Analysis.ipynb)
+3. main notebook link[Github Notebook](https://github.com/Dantarshi/projectcapstone/blob/master/Customer%20Segmentation%20Analysis.ipynb)
 
 
 ## Project Intro/Objective
