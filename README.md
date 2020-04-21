@@ -7,7 +7,7 @@
 
 2. Raw Data is being kept (raw_data_clusters.csv) within this repo.
 
-3. main notebook link[Github Notebook](https://github.com/Dantarshi/projectcapstone/blob/master/Customer%20Segmentation%20Analysis.ipynb)
+3. main notebook link [Github Notebook](https://github.com/Dantarshi/projectcapstone/blob/master/Customer%20Segmentation%20Analysis.ipynb)
 
 
 ## Project Intro/Objective
