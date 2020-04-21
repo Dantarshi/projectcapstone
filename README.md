@@ -114,11 +114,11 @@ Finding best value for k in KMeans Clustering as shown below.
 
 ![png](output_51_0.png)
 
-Best k
+Best k = 7
 
 ## Modeling
 
-Interactive visualization for best value of k using 3-D, the figure below shows 7 beautiful distictive clusters. 
+I perfromed an Interactive visualization for the best value of k which is 7 using 3-D and the figure below shows the beautiful distictive clusters. 
 
 ![png](clusters.png)
 
@@ -126,7 +126,7 @@ Interactive visualization for best value of k using 3-D, the figure below shows 
 ## Random Forest Classifier
 
 
-I input the clusters as my target output to see the feature importances and train the model using Random Forest Clasifier and it performed pretty well with evaluation results.
+I input the clusters as my target output to see the feature importances and trained the model using Random Forest Clasifier. It performed pretty well with these evaluation results.
 
 ```python
 # Result for the evaluation
@@ -147,7 +147,7 @@ evaluate_model(y_test, y_hat_test)
        macro avg       0.98      0.97      0.98     15092
     weighted avg       0.99      0.99      0.99     15092
 
-Went ahead to get the feature importance and it looked like this:
+I went ahead to get the feature importance and it looked like this:
 
 ![png](output_76.1.png)
 
