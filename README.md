@@ -61,7 +61,7 @@ Data for this project is gotten from bigml.com and imported into the notebook.
 
 ## Data cleaning
 
-The cleaning on the data included:
+The cleaning of the data includes:
 * Checking for null or missing data
 * Getting information on data types
 * Checking the data shapes
@@ -72,9 +72,9 @@ The cleaning on the data included:
 
 
 ## Pre-Processing
-The pre-processing phase included:
+The pre-processing phase includes:
 * Checking for categorical variables
-* Droping customer ID 
+* Droping customer ID (since it is redundant at this time)
 * Standardizing the data
 
 
@@ -86,7 +86,7 @@ The PCA visualization is shown below.
 ![png](output_36_1.png)
 
 
-I made the first visualization of the PC1 and PC2 just to shee how it will look like 
+I made the first visualization of the PC1 and PC2 just to see how it will look like 
 Visualize the first couple features (Exploratory Data Analysis)
 
 ![png](output_42_0.png)
@@ -95,7 +95,7 @@ Visualize the first couple features (Exploratory Data Analysis)
 
 ## KMeans Clustering 
 
-Finding best value for k in KMeans Clustering as shown below. 
+Finding best value for k in K-Means Clustering is shown below. 
 
 ![png](output_51_0.png)
 
@@ -103,7 +103,7 @@ Best k = 7
 
 ## Modeling
 
-I perfromed an Interactive visualization for the best value of k which is 7 using 3-D and the figure below shows the beautiful distictive clusters. 
+I performed an Interactive visualization for the best value of k(7) using 3-D and the figure below shows the beautiful distictive clusters. 
 
 ![png](clusters.png)
 
