@@ -29,7 +29,7 @@ to lay the foundation in the development of a business strategy that will create
 * Pandas, jupyter
 * Scikit-learn
 * ipywidget
-* KMeans
+* K-Means
 * etc. 
 
 ## Project Description
