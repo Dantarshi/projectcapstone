@@ -32,7 +32,7 @@ to lay the foundation in the development of a business strategy that will create
 * K-Means
 * etc. 
 
-## Project Description
+## Project Description.
 This project performs analyses of customer purchase behaviors by revealing the clusters customers fall into and how these clusters interact with the company's shops.
 The dataset used in the project is a city retail market data from an Italian distribution company called Coop. The dataset contains data aggregated from customers 
 and information from the shops and pivoted to new columns made up of 40 features(coulumns) and 60366 instances(rows).
@@ -42,7 +42,7 @@ After importing the data from a csv file, I transformed the data into a datafram
 * Random Forest Classification is used to train the dataset and identify the most important features.
 * Plotly Express, Seaborn and Matplotlib for visualization in 3D.
             
-## Needs of this project
+## Needs of this project.
 
 - data exploration/descriptive statistics
 - data processing/cleaning/Standardization
