@@ -71,14 +71,14 @@ The cleaning of the data includes:
 * Checking for place holders
 
 
-## Pre-Processing
+## Pre-Processing.
 The pre-processing phase includes:
 * Checking for categorical variables
 * Droping customer ID (since it is redundant at this time)
 * Standardizing the data
 
 
-## Principal Component Analysis
+## Principal Component Analysis.
 
 I used Principal Component Analysis(PCA) to reduce the dimemtionality by decomposing and transforming the features into principal components and it did a terrific job of accounting for 98.61% of the variables.
 The PCA visualization is shown below.
@@ -93,7 +93,7 @@ Visualize the first couple features (Exploratory Data Analysis)
 
 
 
-## KMeans Clustering 
+## KMeans Clustering.
 
 Finding best value for k in K-Means Clustering is shown below. 
 
@@ -101,14 +101,14 @@ Finding best value for k in K-Means Clustering is shown below.
 
 Best k = 7
 
-## Modeling
+## Modeling.
 
 I performed an Interactive visualization for the best value of k(7) using 3-D and the figure below shows the beautiful distictive clusters. 
 
 ![png](clusters.png)
 
 
-## Random Forest Classifier
+## Random Forest Classifier.
 
 
 I input the clusters as my target output to see the feature importances and trained the model using Random Forest Clasifier. It performed pretty well with these evaluation results.
