@@ -54,12 +54,12 @@ After importing the data from a csv file, I transformed the data into a datafram
 
 Research Question: Are they any clusters of customers based on their purchase behavior? 
 
-## Importing and cleaning data
+## Importing and cleaning data.
 
 Data for this project is gotten from bigml.com and imported into the notebook.
 
 
-## Data cleaning
+## Data cleaning.
 
 The cleaning of the data includes:
 * Checking for null or missing data
