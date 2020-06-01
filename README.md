@@ -66,8 +66,8 @@ The cleaning of the data includes:
 * Getting information on data types.
 * Checking the data shapes.
 * Getting data summary.
-* Droping the null values(since there was only one row missing)
-* Checking for duplicates
+* Droping the null values(since there was only one row missing).
+* Checking for duplicates.
 * Checking for place holders
 
 
