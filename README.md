@@ -64,8 +64,8 @@ Data for this project is gotten from bigml.com and imported into the notebook.
 The cleaning of the data includes:
 * Checking for null or missing data.
 * Getting information on data types.
-* Checking the data shapes
-* Getting data summary
+* Checking the data shapes.
+* Getting data summary.
 * Droping the null values(since there was only one row missing)
 * Checking for duplicates
 * Checking for place holders
