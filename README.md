@@ -44,9 +44,9 @@ After importing the data from a csv file, I transformed the data into a datafram
             
 ## Needs of this project.
 
-- data exploration/descriptive statistics
-- data processing/cleaning/Standardization
-- statistical modeling
+- data exploration/descriptive statistics.
+- data processing/cleaning/Standardization.
+- statistical modeling.
 - machine learning modeling.
 - visualization.
 - writeup/reporting.
