@@ -74,8 +74,8 @@ The cleaning of the data includes:
 ## Pre-Processing.
 The pre-processing phase includes:
 * Checking for categorical variables.
-* Droping customer ID (since it is redundant at this time)
-* Standardizing the data
+* Droping customer ID (since it is redundant at this time).
+* Standardizing the data.
 
 
 ## Principal Component Analysis.
