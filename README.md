@@ -68,12 +68,12 @@ The cleaning of the data includes:
 * Getting data summary.
 * Droping the null values(since there was only one row missing).
 * Checking for duplicates.
-* Checking for place holders
+* Checking for place holders.
 
 
 ## Pre-Processing.
 The pre-processing phase includes:
-* Checking for categorical variables
+* Checking for categorical variables.
 * Droping customer ID (since it is redundant at this time)
 * Standardizing the data
 
