@@ -15,11 +15,11 @@ The purpose of this project is to use customer purchase data to group customers 
 to lay the foundation in the development of a business strategy that will create a target market and improve customer satisfaction. 
 
 
-## Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
+## Methods Used.
+* Inferential Statistics.
+* Machine Learning.
+* Data Visualization.
+* Predictive Modeling.
 * etc.
 
 ## Technologies 
