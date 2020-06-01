@@ -47,9 +47,9 @@ After importing the data from a csv file, I transformed the data into a datafram
 - data exploration/descriptive statistics
 - data processing/cleaning/Standardization
 - statistical modeling
-- machine learning modeling
-- visualization
-- writeup/reporting
+- machine learning modeling.
+- visualization.
+- writeup/reporting.
 
 
 Research Question: Are they any clusters of customers based on their purchase behavior? 
