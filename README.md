@@ -23,13 +23,13 @@ to lay the foundation in the development of a business strategy that will create
 * etc.
 
 ## Technologies 
-* Python
-* Seaborn
-* Plotly Express
-* Pandas, jupyter
-* Scikit-learn
-* ipywidget
-* K-Means
+* Python.
+* Seaborn.
+* Plotly Express.
+* Pandas, jupyter.
+* Scikit-learn.
+* ipywidget.
+* K-Means.
 * etc. 
 
 ## Project Description.
