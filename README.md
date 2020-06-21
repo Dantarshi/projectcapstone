@@ -132,7 +132,7 @@ evaluate_model(y_test, y_hat_test)
        macro avg       0.98      0.97      0.98     15092
     weighted avg       0.99      0.99      0.99     15092
 
-I went ahead to get the feature importance and it looked like this:
+I went ahead to get the feature importance:
 
 ![png](output_76.1.png)
 
