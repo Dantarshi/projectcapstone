@@ -80,7 +80,7 @@ The pre-processing phase includes:
 
 ## Principal Component Analysis.
 
-I used Principal Component Analysis(PCA) to reduce the dimemtionality by decomposing and transforming the features into principal components and it did a terrific job of accounting for 98.61% of the variables.
+I used Principal Component Analysis(PCA) to reduce the dimemtionality by decomposing and transforming the features into principal components which accounted for about 98.61% of the variables.
 The PCA visualization is shown below.
 
 ![png](output_36_1.png)
