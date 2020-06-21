@@ -86,7 +86,7 @@ The PCA visualization is shown below.
 ![png](output_36_1.png)
 
 
-I made the first visualization of the PC1 and PC2 just to see how it will look like 
+I made the first visualization of the PC1 and PC2 to see how it will look like 
 Visualize the first couple features (Exploratory Data Analysis)
 
 ![png](output_42_0.png)
