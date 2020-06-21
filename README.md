@@ -193,5 +193,5 @@ The customer segmentation analysis was directed towards understanding customer p
 I did several exploratory data analysis in both 2-Dimensions and 3-Dimensions to get the best picture of the clusters.
 I used PCA to decompose and transform the features to pricipal components and used Random Forest Classification to determine the feature importance.
 I also used K-Means clusters to detect the various clusters and ran a random forest clasification model to train and test the data. 
-finally, I used the available data to answer the research question and offered insight to the business strategy that will not only satisfy and retain customers but also help in minimizing waste by allocating the right number of inventory to the right shop. 
+finally, I used the available data to answer the research question and offered helpful insight to the business strategy that will not only satisfy and retain customers but also help in minimizing waste by allocating the right number of inventory to the right shop. 
 
