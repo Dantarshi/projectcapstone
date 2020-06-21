@@ -56,7 +56,7 @@ Research Question: Are they any clusters of customers based on their purchase be
 
 ## Importing and cleaning data.
 
-Data for this project is gotten from bigml.com and imported into the notebook.
+Data for this project is gotten from bigml.com and imported into my notebook.
 
 
 ## Data cleaning.
