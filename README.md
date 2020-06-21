@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis
 
 
-## Getting Started
+## Getting Started.
 
 1. Clone this repo [Github Pages](https://github.com/Dantarshi/projectcapstone).
 
